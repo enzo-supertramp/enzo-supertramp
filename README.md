@@ -18,4 +18,4 @@
   
   ##
   
-    ![Snake animation](https://github.com/enzo-supertramp/enzo-supertramp/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/enzo-supertramp/enzo-supertramp/blob/output/github-contribution-grid-snake.svg)
