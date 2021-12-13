@@ -1,4 +1,5 @@
 ### Heey! =)
+OBS: I'M NEW HERE, STILL LEARNING HOW TO USE THIS PLATFORM
 
 - 🔭 I’m currently working on discrete choice choice models on the field of urban transportation networks
 - 🌱 I’m currently learning data science and data statistics
