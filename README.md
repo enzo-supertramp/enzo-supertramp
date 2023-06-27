@@ -1,10 +1,10 @@
 ### Heey! =)
 OBS: I'M NEW HERE, STILL LEARNING HOW TO USE THIS PLATFORM
 
-- 🔭 I’m currently working on discrete choice choice models on the field of urban transportation networks
-- 🌱 I’m currently learning data science and data statistics
-- 💬 Ask me about transportation resillience, discrete choice models and python
-- ⚡ Fun fact: I have a lot of hobbies, e.g. music, NBA, football, video games, books, movies, gym and having random conversations
+- 🔭 I’m currently working as a data scientist on the field of people analytics and also pursuing a master degree qualification on logistic and planning
+- 🌱 Experience with data science and data analytics
+- 💬 Ask me about logistic, classification, discrete choice and others machine learning models or just about lord of the rings =]
+- ⚡ Fun fact: I enjoy having random conversations with unfamiliar people 
 - ✉️ Contact me through: eyulita@hotmail.com
 <div align="center">
   <a href="https://github.com/enzo-supertramp">
